@@ -1,4 +1,4 @@
-buyinf,maint,door,persons,lug_boot,safety,class
+buying,maint,door,persons,lug_boot,safety,class
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
 vhigh,vhigh,2,2,small,high,unacc
@@ -659,7 +659,6 @@ high,med,2,2,big,high,unacc
 high,med,2,4,small,low,unacc
 high,med,2,4,small,med,unacc
 high,med,2,4,small,high,acc
-high,med,2,4,med,low,unacc
 high,med,2,4,med,med,unacc
 high,med,2,4,med,high,acc
 high,med,2,4,big,low,unacc
